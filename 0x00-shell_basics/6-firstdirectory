@@ -1,2 +1,2 @@
-#!/bim/bash
-mkdir /tmp/holberton
+#!/bin/bash
+mkdir /tmp/holberton/
